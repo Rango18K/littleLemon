@@ -2,9 +2,6 @@ import React, { useReducer, useState } from "react";
 import { BrowserRouter as Router, Navigate, Route, Routes, useNavigate } from "react-router-dom";
 import "./App.css";
 
-// ─── IMAGES (replace with your actual imports) ───────────────────────────────
-// import littlelemon_logo from "./images/littlelemon_logo.png";
-// import small_logo from "./images/small_logo.png";
 
 // ─── NAV ─────────────────────────────────────────────────────────────────────
 const Nav = () => {
